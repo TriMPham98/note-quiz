@@ -1,0 +1,6 @@
+# This file ensures the public directory exists in git
+# Sound files should be placed in this directory:
+# - success.mp3
+# - error.mp3
+# - practiceSuccess.mp3
+# - highScoreSuccess.mp3 
